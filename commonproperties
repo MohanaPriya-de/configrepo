@@ -1,7 +1,7 @@
 machinename=Mohana
 Servername =DESKTOP-UVVCE5A\SQLEXPRESS
 dbname=VehicleDB
-vaulturl= http://local
+vaulturl= http://localhost:8200
 roottoken=root
 secretpath=secret/sqlserversecret
 mountpath=secret
