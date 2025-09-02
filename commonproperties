@@ -1,0 +1,8 @@
+machinename=Mohana
+Servername =DESKTOP-UVVCE5A\SQLEXPRESS
+dbname=VehicleDB
+vaulturl= http://local
+roottoken=root
+secretpath=secret/sqlserversecret
+mountpath=secret
+path=qlserversecret
